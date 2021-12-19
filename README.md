@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Nova 👋
+- 🔭 I'm currently working on a game engine and a discord bot
+- 🌱 I’m currently learning C#, C++, and Java
+- 🏳️‍⚧️ I'm trans and my pronouns are she/her
+- 📫 if you need to contact me, my discord name is Intel#1807
 
 <!--
 **saavor/saavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
